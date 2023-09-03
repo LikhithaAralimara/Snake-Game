@@ -18,9 +18,12 @@ Before you can run the Snake game, ensure that you have the following prerequisi
 Running the Game
 To run the Snake game:
 
-1.Clone this repository to your local machine using Git:
+1.Clone this repository to your local machine using Git
+
 2.Navigate to the project directory:
+
 3.Compile the Java source code:
+
 4.Run the game:
 
 This will launch the Snake game window, and you can start playing by following the on-screen instructions.
